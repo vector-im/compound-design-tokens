@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "7c4329c221e6c0a930514f34233c486224d01971",
+    "name": "Web",
+    "selectedTokenSets": {
+      "platform-web": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
